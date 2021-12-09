@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.canciones.MainActivity">
+    <item
+        android:id="@+id/delete"
+        android:enabled="true"
+        android:icon="@drawable/delete"
+        android:title="@string/borrar"
+        android:visible="true"
+        app:showAsAction="ifRoom" />
+</menu>

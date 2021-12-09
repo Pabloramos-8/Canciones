@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Canciones</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="insert">insert</string>
+    <string name="submit">Submit</string>
+    <string name="insert_year">Insert Year</string>
+    <string name="insert_album_name">Insert Album Name</string>
+    <string name="insert_singer_band">Insert Singer/Band</string>
+    <string name="insert_song_title">Insert Song Title</string>
+    <string name="borrar">borrar</string>
+</resources>
